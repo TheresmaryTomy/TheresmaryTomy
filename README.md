@@ -16,5 +16,5 @@ AI should be purposeful, trustworthy, and built for real people - not just impre
 ## Currently learning
 RAG pipelines · ChromaDB · Embeddings · AI security
 
--
-💬 Always happy to connect with people building purposeful AI.
+
+#### Always happy to connect with people building purposeful AI!
