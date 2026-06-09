@@ -26,7 +26,7 @@ Currently building in public while on maternity leave in Australia 🇦🇺
 
 ## What I'm focused on right now
 
-🙏 **[Fides](https://github.com/Theresmary/fides)** - a trustworthy Catholic AI companion grounded in Church documents via RAG
+🙏 **[Fides](https://github.com/TheresmaryTomy/fides)** - a trustworthy Catholic AI companion grounded in Church documents via RAG
 
 🔐 **AI for Cybersecurity** - my long-term research direction
 
