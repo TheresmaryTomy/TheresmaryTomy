@@ -62,9 +62,9 @@ Currently building in public while on maternity leave in Australia 🇦🇺
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Theresmary&show_icons=true&theme=default&hide_border=true&title_color=1a3a70&icon_color=4a6fa5&text_color=3a4e6e&bg_color=f4f7fc)
+![Stats](https://github-readme-stats.vercel.app/api?username=TheresmaryTomy&show_icons=true&theme=default&hide_border=true&title_color=1a3a70&icon_color=4a6fa5&text_color=3a4e6e&bg_color=f4f7fc)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Theresmary&layout=compact&theme=default&hide_border=true&title_color=1a3a70&text_color=3a4e6e&bg_color=f4f7fc)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheresmaryTomy&layout=compact&theme=default&hide_border=true&title_color=1a3a70&text_color=3a4e6e&bg_color=f4f7fc)
 
 </div>
 
